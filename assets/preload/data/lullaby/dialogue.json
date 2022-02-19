@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Kris! Susie!",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "happy",
+			"text": "It's been ever so...",
+			"boxState": "normal",
+			"portrait": "ralsei",
+			"speed": 0.04
+		},
+		{
+			"expression": "confused",
+			"text": "eee?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "H-hello...!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "sad",
+			"text": "Oh! My apologies...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "sad",
+			"text": "I thought you were two of my friends...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "unsmile",
+			"text": "If I may ask , how did you two got here?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Mhh, i see...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boo bop.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "unsmile",
+			"text": "Eh, you want to do a singing battle\\nwith me...?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"expression": "idk",
+			"text": "Well... I sing from time to time but I'm not a professional...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "ralsei"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "ralsei",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "But i can still try!"
+		}
+	]
+}
